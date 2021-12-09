@@ -11,12 +11,7 @@
   <a href="https://github.com/HdYt12"><b>Github</b></a>
 </p>
 
-<p align="center">
-  <br>
-  <b>Available in</b>
-  <br>
-  <img src="**https://tse2.mm.bing.net/th?id=OIP.ylJiqL8qTEk-cReZM3AcXwHaD4&pid=Api&P=0&w=295&h=156**">
-</p>
+
 
 <p>
   <a style="margin-right: 10px;" href="https://github.com/thewhiteh4t/seeker#installation">
