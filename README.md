@@ -15,7 +15,7 @@
   <br>
   <b>Available in</b>
   <br>
-  <img src="**https://i.imgur.com/1wJVDV5.png**">
+  <img src="**https://tse2.mm.bing.net/th?id=OIP.ylJiqL8qTEk-cReZM3AcXwHaD4&pid=Api&P=0&w=295&h=156**">
 </p>
 
 <p>
