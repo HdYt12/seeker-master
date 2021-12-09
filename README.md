@@ -15,7 +15,7 @@
   <br>
   <b>Available in</b>
   <br>
-  <img src="https://i.imgur.com/1wJVDV5.png">
+  <img src="**https://i.imgur.com/1wJVDV5.png**">
 </p>
 
 <p>
@@ -104,7 +104,7 @@ pip3 install requests
 ### BlackArch Linux
 
 ```bash
-pacman -S seeker
+pacman -S seeker-master
 ```
 
 ### Termux
